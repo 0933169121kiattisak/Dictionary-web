@@ -1,0 +1,79 @@
+.App{
+  padding: 25px;
+  box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+  margin: 20px 10px;
+  height: auto;
+  width: 600px;
+  background: linear-gradient(180deg,#C5BAFF,#C4D9FF,#E8F9FF);
+  border-radius: 6px;
+}
+
+h1{
+  text-align: center;
+  font-weight: 200;
+  font-size: 3em;
+  color: #E8F9FF;
+}
+
+.search-box{
+  width: 100%;
+  text-align: center;
+  margin: 10px;
+}
+
+input{
+  width: 60%;
+  padding: 10px 20px;
+  font-size: 1.5em;
+  color: #C5BAFF;
+  border: none;
+  outline: none;
+  margin-right: 20px;
+  border-radius: 5px;
+  background-color: #E8F9FF;
+  overflow: hidden;
+}
+
+.audio{
+  margin-left: 10px;
+  background-color: transparent;
+  border: none;
+  
+}
+
+.btn-search{
+  padding: 5px 10px;
+  color: #C5BAFF;
+  background-color: transparent;
+  border: none;
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: 400;
+  border: 2px solid #C5BAFF;
+  border-radius: 5px;
+  transform: rotate(5deg);
+  
+}
+
+.btn-search:hover{
+  color: #E8F9FF;
+  border:2px solid #E8F9FF;
+  transform: rotate(0deg);
+}
+
+
+h2{
+  padding-right: 10px;
+  font-size: 3em;
+}
+h4{
+  font-size: 2em;
+}
+h2,h4{
+  color: #441752;
+}
+p{
+  margin-top: 0;
+  font-size: 1.5em;
+  color: #A888B5;
+}
