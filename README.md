@@ -5,4 +5,6 @@
    - Uses axios for HTTP requests to the Dictionary API
    - Implements error handling using .catch()
    - Updates state based on API response
-
+3. Audio Playback:
+4. Data Display:
+   - Accesses nested API response data
